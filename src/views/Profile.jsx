@@ -82,7 +82,7 @@ function Profile() {
                                     HI, I AM
                                 </Typography>
                                 <Typography sx={{ fontSize: { xs: '48px', md: '90px' }, color: 'white', lineHeight: 1 }}>
-                                    keeratipong
+                                    keeratipong k.
                                 </Typography>
                                 <Typography sx={{ fontSize: '18px', fontFamily: 'Manrope', color: '#FFFFFF', mt: 2 }}>
                                     มนุษย์เป็ดผู้ที่กำลังศึกษาเรียนรู้ทักษะการเขียนและพัฒนาเว็บไซต์เพื่อนำไปประกอบอาชีพในอนาคต
